@@ -44480,6 +44480,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 @media (max-width: 768px) {
+
+
   .u-section-9 .u-layout-col {
     flex-direction: column;
     align-items: center;
@@ -44506,6 +44508,12 @@ a.u-link.u-text-hover-grey-90:hover {
     word-break: break-word;
     text-align: center;
   }
+
+  section#sec-efc9 .u-text-2 > a {
+    font-size: 0.6em !important;
+    
+  }
+
 }
 
         /*end-responsive rules*/
